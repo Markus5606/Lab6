@@ -1,0 +1,5 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\user\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(13,15): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\user\source\repos\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(16,13): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+E:\Визуалка\VC\Tools\MSVC\14.22.27905\include\xtgmath.h(22,28): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication11.vcxproj -> C:\Users\user\source\repos\ConsoleApplication11\Debug\ConsoleApplication11.exe
