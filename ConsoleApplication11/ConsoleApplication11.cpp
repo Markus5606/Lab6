@@ -14,12 +14,12 @@ int _tmain(int argc, _TCHAR* argv[])
 
 
 	float y, x = a;
-	while (x <= b);
+	do
 	{
 		y = pow(M_E, x) + abs(x) + pow(x, 2);
 		printf("x=%.2f   y=%f\n", x, y);
 		x += h;
-	}
+	} while (x <= b);
 
 
 	system("pause");
